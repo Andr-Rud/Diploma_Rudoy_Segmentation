@@ -1,1 +1,2 @@
-# Diploma_Rudoy_Segmentation
+# 1) Segmentation_Unet
+Файл содержит код  тренировки U-net архитектуры для задачи сегментации дорог
